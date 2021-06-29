@@ -1,6 +1,6 @@
 # QuizRelatório
-Quiz Evaluation
-Está repositório tem como proposição testar, avaliar e correlacionar 4 tipos de sistemas de quiz para determinar pontos positivos e negativos
+Quiz Relatório apresenta o repositório tem como proposição testar, avaliar e correlacionar
+4 tipos de sistemas de quiz para determinar pontos positivos e negativos
 
 
 #Link para os sistemas a serem avaliados:
