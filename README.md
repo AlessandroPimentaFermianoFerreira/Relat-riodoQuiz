@@ -11,9 +11,9 @@ Quiz Relatório apresenta o repositório tem como proposição testar, avaliar e
  
  [quick-quiz](https://github.com/UrbanInstitute/quick-quiz) Modelos de Sistema.
  
- [pa-driver-tests](https://github.com/SethClydesdale/pa-driver-tests)
+ [pa-driver-tests](https://github.com/SethClydesdale/pa-driver-tests) Testa conhecimentos de Motoristas
  
- [Quiz-website  -Em PHP](https://github.com/M-Waweru/Quiz-website)
+ [Quiz-website ](https://github.com/M-Waweru/Quiz-website) Em PHP
  
 
 
