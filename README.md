@@ -18,18 +18,21 @@ Quiz Relatório apresenta o repositório tem como proposição testar, avaliar e
 
 
 # Critérios de avaliação
- *1 Interface
+> 1 Interface
 
 O sistema precisa ter uma Interfase responsiva.
 
-*2 Coleta de Dados
+> 2 Coleta de Dados
 
 E necessário fazer a coleta de dados conforme abaixo:
 
 Nome
+
 Telefone
+
 Instituição de ensino
 
-*3 Sistema de rankeamento
+
+> 3 Sistema de rankeamento
 
 E preciso ter um sistema de rankeamento por quiz.
